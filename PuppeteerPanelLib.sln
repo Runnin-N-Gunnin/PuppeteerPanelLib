@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PuppeteerPanelLib", "PuppeteerPanelLib\PuppeteerPanelLib.csproj", "{E03B3B26-AED1-40DA-A462-37A356FDF650}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PuppeteerPanelExample", "PuppeteerPanelExample\PuppeteerPanelExample.csproj", "{04142141-1231-4448-AC22-CE89445B6006}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E03B3B26-AED1-40DA-A462-37A356FDF650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E03B3B26-AED1-40DA-A462-37A356FDF650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E03B3B26-AED1-40DA-A462-37A356FDF650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E03B3B26-AED1-40DA-A462-37A356FDF650}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04142141-1231-4448-AC22-CE89445B6006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04142141-1231-4448-AC22-CE89445B6006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04142141-1231-4448-AC22-CE89445B6006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04142141-1231-4448-AC22-CE89445B6006}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3371EDB7-4CBC-45BB-9FCF-6EC228DD3921}
+	EndGlobalSection
+EndGlobal
